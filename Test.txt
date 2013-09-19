@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Das ist ein Test
 
 Hello World
 
 Golo sagt so geht's.
 jetzt aber.
+=======
+Das ist ein Test
+>>>>>>> parent of 04e0efc... Sagte "Hello World"
